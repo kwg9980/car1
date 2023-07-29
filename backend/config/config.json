@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root2",
+    "password": "root",
+    "database": "petmily",
+    "host": "43.202.93.39",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root2",
+    "password": "root",
+    "database": "petmily",
+    "host": "43.202.93.39",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root2",
+    "password": "root",
+    "database": "petmily",
+    "host": "43.202.93.39",
+    "dialect": "mysql"
+  }
+}
